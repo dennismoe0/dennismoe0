@@ -8,8 +8,6 @@ Fullstack developer building client projects alongside my studies. Heavy AI-assi
 
 ## My Stack
 
-> What I work with regularly and would confidently use in a project.
-
 #### Languages
 
 <p>
