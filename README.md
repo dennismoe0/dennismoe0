@@ -1,6 +1,6 @@
 # Dennis Moe
 
-**Computer Engineering Bachelor @ NTNU Trondheim with a previous Bachelor in Ancient History| Freelance Fullstack Developer: Org. nr 832 202 312**
+**Computer Engineering Bachelor @ NTNU Trondheim with a previous Bachelor in Ancient History| Freelance Fullstack Developer: Org. nr 832 202 312 (Moe Frilans) **
 
 Fullstack developer building client projects alongside my studies. Heavy AI-assisted workflow — structured prompting, CLI tooling, and plugin-driven automation over vibe coding. Currently exploring Rust.
 
