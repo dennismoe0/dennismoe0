@@ -78,10 +78,10 @@ Fullstack developer building client projects alongside my studies. Heavy AI-assi
 
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
-| Insotech AS | B2B product catalog for electrical wholesaler | Nuxt 3, Supabase, Cloudflare, Railway | [insotech.no](https://insotech.no) *(in development)* |
+
 
 ### Collaborative Projects
 
 | Project | My Role | Link |
 |---------|---------|------|
-| *(add yours here)* | | |
+| | | |
