@@ -1,8 +1,8 @@
 # Dennis Moe
 
-**Computer Engineering Bachelor @ NTNU Trondheim with a previous Bachelor in Ancient History| Freelance Fullstack Developer: Org. nr 832 202 312 (Moe Frilans) **
+**Computer Engineering Bachelor @ NTNU Trondheim with a previous Bachelor in Ancient History | Freelance Fullstack Developer: Org. nr 832 202 312 (Moe Frilans)**
 
-Fullstack developer building client projects alongside my studies. Heavy AI-assisted workflow — structured prompting, CLI tooling, and plugin-driven automation over vibe coding. Currently exploring Rust.
+Fullstack developer building client projects alongside my studies. Heavy AI-assisted workflow — structured prompting, CLI tooling, and plugin-driven automation over vibe coding.
 
 ---
 
@@ -39,11 +39,11 @@ Fullstack developer building client projects alongside my studies. Heavy AI-assi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" alt="Vite" title="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" alt="npm" title="npm" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" title="Vercel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase" title="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" alt="Cloudflare" title="Cloudflare" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" title="Arch Linux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white" height="40" title="Railway" />
 </p>
 
 ---
@@ -53,6 +53,8 @@ Fullstack developer building client projects alongside my studies. Heavy AI-assi
 > Things I've used in courses, projects, or personal tinkering — not daily drivers.
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="Rust" title="Rust" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure" title="Microsoft Azure / Graph API" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C" title="C" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash" title="Bash" />
@@ -65,12 +67,21 @@ Fullstack developer building client projects alongside my studies. Heavy AI-assi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX" title="LaTeX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" alt="Arduino" title="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" alt="Raspberry Pi" title="Raspberry Pi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" alt="Vercel" title="Vercel" />
 </p>
 
 ---
 
-## Currently Exploring
+## Professional Work
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" alt="Rust" title="Rust" />
-</p>
+### Solo Projects
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| Insotech AS | B2B product catalog for electrical wholesaler | Nuxt 3, Supabase, Cloudflare, Railway | [insotech.no](https://insotech.no) *(in development)* |
+
+### Collaborative Projects
+
+| Project | My Role | Link |
+|---------|---------|------|
+| *(add yours here)* | | |
