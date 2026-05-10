@@ -79,6 +79,7 @@ Fullstack developer building client projects alongside my studies. Heavy AI-assi
 | Project | Description | Stack | Link |
 |---------|-------------|-------|------|
 
+| [insotech.no](https://insotech.no) | B2B product catalog for an electrical wholesaler — category/product browser with RFQ lead generation, admin panel, and CSV import pipeline | Nuxt 4 · Vue 3 · TypeScript · Supabase · Tailwind · Railway | [insotech.no](https://insotech.no) |
 
 ### Collaborative Projects
 
