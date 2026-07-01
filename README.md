@@ -58,4 +58,4 @@ The sites come out zero-JS by default and score 97–100 on Lighthouse.
 
 - 🌐 [moefrilans.no](https://moefrilans.no) — my studio, Moe Frilans
 - 💼 [linkedin.com/in/dennismoe](https://www.linkedin.com/in/dennismoe)
-- ✉️ dennis@moefrilans.no
+- ✉️ dennis.moe@outlook.com
