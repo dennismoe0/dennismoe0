@@ -25,8 +25,7 @@ I lean on AI heavily, but with guardrails: my own CLI tooling, a handful of skil
 22-dimension audit suite that reviews my diffs adversarially before I ship. It's how I move fast without
 shipping slop.
 
-The sites come out zero-JS by default and score 97–100 on Lighthouse. The source for this studio site
-is public if you want to poke at it: [github.com/dennismoe0/moefrilans](https://github.com/dennismoe0/moefrilans).
+The sites come out zero-JS by default and score 97–100 on Lighthouse.
 
 ## Stack
 
