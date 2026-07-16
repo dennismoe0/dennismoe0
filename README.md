@@ -53,6 +53,8 @@ The content sites ship zero-JS and score 97–100 on Lighthouse.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="38" alt="Cloudflare" title="Cloudflare" />
 </p>
 
+**Learning:** Go (backend side projects) · C++ ([INFT2503](https://www.ntnu.no/studier/emner/INFT2503), NTNU)
+
 ## Links
 
 - 🌐 [moefrilans.no](https://moefrilans.no) — my web studio
