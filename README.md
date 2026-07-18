@@ -59,7 +59,7 @@ The content sites ship zero-JS and score 97–100 on Lighthouse.
 
 | Project | What it is | Role | Links |
 |---------|-----------|------|-------|
-| **IK-Kontrollsystem** | Internal-control system for a real restaurant client — food safety (IK-Mat) and alcohol compliance logging, replacing paper logbooks<br><sub>Vue 3 · Spring Boot · MySQL · Docker</sub> | Team of 4, grade A · my part: multi-tenant scoping, role-based security, dashboard + checklist modules | [code](https://github.com/Stcwal/fullstack) |
+| **IK-Kontrollsystem** | Internal-control system for a real restaurant client — food safety (IK-Mat) and alcohol compliance logging, replacing paper logbooks<br><sub>Vue 3 · Spring Boot · MySQL · Docker</sub> | Team of 4, grade A · my part: multi-tenant scoping, role-based security, dashboard + checklist modules | [course repo](https://github.com/dennismoe0/IDATT2105-Fullstack) · [team repo](https://github.com/Stcwal/fullstack) |
 | **Network programming in Rust** | Course assignments (threads → thread pool → raw HTTP → TLS/UDP → sandboxed code-runner) and an RGA CRDT collaborative editor, Rust compiled to WASM with a React frontend<br><sub>Rust · WebAssembly · axum · React</sub> | Team of 3 on the editor, grade A · assignments solo | [code](https://github.com/dennismoe0/IDATT2104-Nettverksprogrammering) |
 
 ## Links
