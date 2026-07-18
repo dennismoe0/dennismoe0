@@ -1,6 +1,6 @@
 # Dennis Moe
 
-Third-year Computer Engineering student at NTNU in Trondheim. On the side I build websites and web apps for
+Third-year Computer Engineering student at NTNU in Trondheim, specializing in software engineering (systemutvikling). On the side I build websites and web apps for
 small businesses as a one-person studio, Moe Frilans (org.nr 832 202 312), and I run the
 infrastructure behind them: domain, DNS, email, hosting.
 
@@ -65,7 +65,7 @@ mine — the content sites above ship zero JS and score 97–100 on Lighthouse.
 
 - 🌐 [moefrilans.no](https://moefrilans.no) — my web studio
 - 💼 [linkedin.com/in/dennismoe](https://www.linkedin.com/in/dennismoe)
-- ✉️ dennis.moe@outlook.com
+- ✉️ post@moefrilans.no
 
 ---
 
