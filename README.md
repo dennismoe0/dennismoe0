@@ -56,10 +56,11 @@ Open to summer 2027 internships, and part-time work alongside my studies.
 
 ## How I work
 
-I use AI heavily and openly — it does a lot of my typing, and I like the speed. What makes that
-work is everything I've built around it: custom CLI tooling and skills, and a review pipeline that
-checks every diff before it ships. The design decisions, the debugging, and the quality bar are
-mine — the content sites above ship zero JS and score 97–100 on Lighthouse.
+I use AI heavily and openly. The development speed it enables makes it possible to take on larger
+projects for clients than a one-person studio otherwise could. What makes that work is everything
+I've built around it: custom CLI tooling and skills, and a review pipeline that checks every diff
+before it ships. The design decisions, the debugging, and the quality bar are mine. The content
+sites above ship zero JS and score 97–100 on Lighthouse.
 
 ## Links
 
