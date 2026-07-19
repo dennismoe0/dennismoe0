@@ -69,6 +69,7 @@ on Lighthouse.
 
 - 🌐 [moefrilans.no](https://moefrilans.no) — my web studio
 - 💼 [linkedin.com/in/dennismoe](https://www.linkedin.com/in/dennismoe)
+- 📄 [CV](https://moefrilans.no/cv-en.pdf) — [norsk versjon](https://moefrilans.no/cv-no.pdf)
 - ✉️ post@moefrilans.no
 
 ---
