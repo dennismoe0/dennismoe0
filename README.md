@@ -1,5 +1,10 @@
 # Dennis Moe
 
+- 🌐 [moefrilans.no](https://moefrilans.no) — my web studio
+- 💼 [linkedin.com/in/dennismoe](https://www.linkedin.com/in/dennismoe)
+- 📄 [English CV](https://moefrilans.no/cv-en.pdf) · [Norsk CV](https://moefrilans.no/cv-no.pdf)
+- ✉️ post@moefrilans.no
+
 Third-year Computer Engineering student at NTNU in Trondheim, specializing in software engineering (systemutvikling). On the side I build websites and web apps for
 small businesses as a one-person studio, Moe Frilans (org.nr 832 202 312), and I run the
 infrastructure behind them: domain, DNS, email, hosting.
@@ -64,52 +69,3 @@ checks, each finding adversarially verified before it's reported. The design dec
 debugging, and the quality bar are mine. The content sites above ship zero JS and score 97–100
 on Lighthouse.
 
-## Links
-
-- 🌐 [moefrilans.no](https://moefrilans.no) — my web studio
-- 💼 [linkedin.com/in/dennismoe](https://www.linkedin.com/in/dennismoe)
-- 📄 [English CV](https://moefrilans.no/cv-en.pdf) · [Norsk CV](https://moefrilans.no/cv-no.pdf)
-- ✉️ post@moefrilans.no
-
----
-
-<details>
-<summary>👾 me, but make it ASCII <sub>(a portrait — best viewed in dark mode)</sub></summary>
-<br>
-
-```text
-                           -=++=-     ::::
-                       -=**##**+=+==+***++++-:.
-                     -=*#%#+-:::--=******+==++=-..
-                 :-=###%%#=-:-:---=#%#*==+*+=-==---=
-              ::+#*##*#%%%##+=--===***=-::=#*+--+++**+
-             --*##+==*%%###+==++=+=-::::.:=***=--****#+
-             -**+-:-=+*===-=+#####%*+=---=++====--++*#*:
-           :**====+-..:-=+*##%%%%@@@%%####+=:-.=*==+*##+.
-           -*##**##*+:-*##%%@@%@@@@@@@@%##*-:-..===++=+*-
-           **=+***+++=*#**%%%@@@@@@@@%%+=++-..::.--+*-:::.
-           =+++---=---*%%%@@@@@@@@@@@%%=:-=-::::=+-:--:....
-            :-+===++-+#@@@@@@@@@@@@@@@%*:-=+=-::--:........
-             =:..:=+-*#%@@@@@@@@@@@%%%%%#+-:-===-:.........
-              -:..-===-====+*#####*+===-=-:..--:..........
-               :.:+=-.:*-...:-=+=-::-*-..................
-               ::+#+=++=-....*@@%-..-==-..................
-                =#%%%##***##%%@@#+**+++++=---=--::........
-                +%@@@@@@@@@@@%@@#*#%%%%%%%%%%##+-:.......
-                *%@@@@@@@@%%%@@%#*+*%@@@@@@@%%#+::.......
-                *%%%@@@@%%%%%@@%##**%%%@@%%%#*+-:........
-                 #####*##%%+-==-:.:-#%#####*+=-::.::::.
-                 +**=:+*%%%%#-....:+###*+==--:::::...
-                  *=*%#*#=---------=*++*#++=:.::..
-                  *####%%#**+++==--::-+*##=:::...
-                   **+*%%%%######*+++##**-:.:.....
-                    -+*#%%%#*+=====+##*+:.......:.
-                     :+*#%@%%@%%%%%%%#+:........:.
-                       -+%@@@@@@%%%%*-.........:::.
-                        :=***++++==-:...........::..
-                        ::::::::::..............:.::.
-```
-
-<sub>Real photo → background segmentation → histogram equalization → brightness-to-character mapping, plus a few hand-placed characters for the eyes and mouth. Selectable text, no image. Pipeline in [`ascii-portrait/`](ascii-portrait/). On light theme you get the cursed photo-negative variant.</sub>
-
-</details>
