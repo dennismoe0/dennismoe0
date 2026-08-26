@@ -63,7 +63,7 @@ Open to summer 2027 internships, and part-time work alongside my studies.
 I use AI heavily and openly. The development speed it enables makes it possible to take on larger
 projects for clients than a one-person studio otherwise could. What makes that work is everything
 I've built around it: custom CLI tooling and skills, and a review pipeline that checks every diff
-before it ships. At its core is [an audit suite I built](https://moefrilans.no/en/quality) and am preparing for public release:
+before it ships. At its core is [an audit suite I built](https://moefrilans.no/en/quality):
 22 quality dimensions, from security and WCAG accessibility to performance, i18n and supply-chain
 checks, each finding adversarially verified before it's reported. The design decisions, the
 debugging, and the quality bar are mine. The content sites above ship zero JS and score 97–100
