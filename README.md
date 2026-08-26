@@ -23,7 +23,6 @@ Open to summer 2027 internships, and part-time work alongside my studies.
 
 **Languages**
 <p>
-  <img src="icons/typescript.svg" width="38" alt="TypeScript" title="TypeScript" />
   <img src="icons/java.svg" width="38" alt="Java" title="Java" />
   <img src="icons/python.svg" width="38" alt="Python" title="Python" />
 </p>
