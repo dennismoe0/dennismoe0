@@ -2,7 +2,7 @@
 
 - 🌐 [moefrilans.no](https://moefrilans.no)
 - 💼 [linkedin.com/in/dennismoe](https://www.linkedin.com/in/dennismoe)
-- 📄 [English CV](https://moefrilans.no/cv-en.pdf) · [Norsk CV](https://moefrilans.no/cv-no.pdf) <sub>— last updated August 2026</sub>
+- 📄 [English CV](https://moefrilans.no/cv-en.pdf) · [Norsk CV](https://moefrilans.no/cv-no.pdf) <sub>— last updated September 2026</sub>
 - ✉️ post@moefrilans.no
 
 Third-year Computer Engineering student at NTNU in Trondheim, specializing in software engineering
