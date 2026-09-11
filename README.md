@@ -54,7 +54,7 @@ Client projects I built and still run through my one-person company, Moe Frilans
   <img src="icons/cloudflare.svg" width="38" alt="Cloudflare" title="Cloudflare" />
 </p>
 
-**Learning:** Go (backend side projects) · C++ ([INFT2503](https://www.ntnu.no/studier/emner/INFT2503), NTNU)
+**Learning:** C++ ([INFT2503](https://www.ntnu.no/studier/emner/INFT2503), NTNU)
 
 ## Coursework (NTNU)
 
